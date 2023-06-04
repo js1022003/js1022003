@@ -1,4 +1,4 @@
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)](https://github.com/kijepark)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)
 
 #### LANGUAGE
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
