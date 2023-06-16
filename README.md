@@ -1,5 +1,7 @@
 ![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)
 
+## STACKS
+
 #### LANGUAGE
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black)
@@ -15,8 +17,10 @@
 ![Mongo](https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
 
+##
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=js1022003&theme=nord_dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=js1022003&show_icons=true&theme=radical)
+
 
 <!--
 **js1022003/js1022003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
