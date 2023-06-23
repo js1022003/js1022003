@@ -1,8 +1,10 @@
+<div align='center'>
+  
 ![waving](https://capsule-render.vercel.app/api?type=slice&height=200&text=Junseo-Kim&fontSize=80&fontAlignY=50&color=gradient)
 
-## TECH STACKS
+### TECH STACKS
 ![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)
-
+  
 #### LANGUAGE
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black)
@@ -17,10 +19,11 @@
 ![Express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
 ![Mongo](https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
-
 ##
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=js1022003&theme=nord_dark)
+
+
+</div>
 
 
 <!--
