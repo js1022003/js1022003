@@ -1,6 +1,7 @@
-![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=JUNSEO%20KIM&fontAlign=70&fontAlignY=35&color=gradient&customColorList=12)
 
-## STACKS
+## TECH STACKS
+![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)
 
 #### LANGUAGE
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
