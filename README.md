@@ -1,6 +1,6 @@
 <div align='center'>
   
-![waving](https://capsule-render.vercel.app/api?type=slice&height=200&text=Junseo-Kim&fontSize=80&fontAlignY=50&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=slice&height=200&text=Junseo-Kim&fontSize=80&fontAlignY=50&desc=Welcome%20to%20my%20Github&descAlignY=75&color=gradient)
 
 ### TECH STACKS
 ![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)
