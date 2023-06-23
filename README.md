@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=JUNSEO%20KIM&fontAlign=70&fontAlignY=35&color=gradient&customColorList=12)
+![waving](https://capsule-render.vercel.app/api?type=slice&height=200&text=Junseo-Kim&fontSize=80&fontAlignY=50&color=gradient)
 
 ## TECH STACKS
 ![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)
